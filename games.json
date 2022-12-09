@@ -1,0 +1,60 @@
+{
+    "title": "Fortnite Battle Royale",
+    "year": "2016",
+    "rating": "T",
+    "image": "img/Fornite.jpg"
+},
+{
+    "title": "Among Us",
+    "year": "2018",
+    "rating": "PEGI 7+",
+    "image": "img/Among Us.jpg"
+},
+{
+    "title": "Minecraft",
+    "year": "2011",
+    "rating": "E",
+    "image": "img/Minecraft.jpg"
+},
+{
+    "title": "Elden Ring",
+    "year": "2022",
+    "rating": "M",
+    "image": "img/EldenRing.jpg"
+},
+{
+    "title": "Superhot",
+    "year": "2016",
+    "rating": "PEGI 12+",
+    "image": "img/Superhot.jpg"
+},
+{
+    "title": "Overwatch 2",
+    "year": "2022",
+    "rating": "T",
+    "image": "img/Overwatch.jpg"
+},
+{
+    "title": "Risk of Rain 2",
+    "year": "2019",
+    "rating": "T",
+    "image": "img/Ror2.jpg"
+},
+{
+    "title": "Fall Guy",
+    "year": "2020",
+    "rating": "E",
+    "image": "img/FallGuy.jpg"
+},
+{
+    "title": "Sekiro",
+    "year": "2019",
+    "rating": "M",
+    "image": "img/Sekiro.jpg"
+},
+{
+    "title": "Bloodborne",
+    "year": "2015",
+    "rating": "M",
+    "image": "img/Bloodborne.jpg"
+},
